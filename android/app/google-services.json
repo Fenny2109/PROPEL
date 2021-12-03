@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996887103976",
+    "project_id": "propel-6aadc",
+    "storage_bucket": "propel-6aadc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996887103976:android:eb52086b580f4df338bc5d",
+        "android_client_info": {
+          "package_name": "com.example.propel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996887103976-lhld1ndpjakjg8n52i3gi10aiihapaev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQeIaLO-8-FXlAMR9D5cMgxk5SvHA5tuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996887103976-lhld1ndpjakjg8n52i3gi10aiihapaev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
